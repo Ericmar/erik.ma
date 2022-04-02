@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://erik.ma/sitemap.xml

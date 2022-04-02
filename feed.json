@@ -1,0 +1,39 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Eric Mar",
+    "home_page_url": "https://erik.ma/",
+    "feed_url": "https://erik.ma/feed.json",
+    "description": "Eric Mar",
+    "icon": "https://erik.ma/assets/images/apple-touch-icon.png",
+    "favicon": "https://erik.ma/assets/images/favicon.png",
+    "expired": false,
+    
+    "author":  {
+        "name": "Eric Mar",
+        "url": null,
+        "avatar": null
+    },
+    
+"items": [
+    
+        {
+            "id": "https://erik.ma/start-here/",
+            "title": "就这样开始吧",
+            "summary": null,
+            "content_text": "后面会在这里记录所思所想.",
+            "content_html": "<p>后面会在这里记录所思所想.</p>",
+            "url": "https://erik.ma/start-here/",
+            
+            
+            
+            
+            
+            "date_published": "2021-04-03T08:00:00+08:00",
+            "date_modified": "2021-04-03T08:00:00+08:00",
+            
+                "author": "Eric Mar"
+            
+        }
+    
+    ]
+}

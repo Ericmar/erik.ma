@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Eric Mar</title>
+ <link href="https://erik.ma/atom.xml" rel="self"/>
+ <link href="https://erik.ma/"/>
+ <updated>2022-04-03T00:46:02+08:00</updated>
+ <id>https://erik.ma</id>
+ <author>
+   <name>Eric Mar</name>
+   <email>ping@erik.ma</email>
+ </author>
+
+ 
+ <entry>
+   <title>就这样开始吧</title>
+   <link href="https://erik.ma/start-here/"/>
+   <updated>2021-04-03T08:00:00+08:00</updated>
+   <id>https://erik.ma/Start-Here</id>
+   <content type="html">&lt;p&gt;后面会在这里记录所思所想.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
